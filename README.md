@@ -108,7 +108,9 @@ httpd= HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ...
  #OUtput
+ 
  ![alt text](<Screenshot (18).png>)
+ 
  ![alt text](<Screenshot (16).png>)
 
  #RESULT:
